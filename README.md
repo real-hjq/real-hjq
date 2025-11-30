@@ -8,14 +8,14 @@
 
 ---
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 PhD student at **City University of Hong Kong**, supervised by **Kede Ma**
 - 📫 How to reach me: **jiaqhe5-c@my.cityu.edu.hk**
 
 ---
 
-# 🌟 Research Interests
+### 🌟 Research Interests
 
 - 👁️ Image Quality Qssessment (IQA) 
 - 🔭 Video Quality Qssessment (VQA)
