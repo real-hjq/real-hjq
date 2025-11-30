@@ -1,9 +1,3 @@
-## Hi, I'm Jiaqi He 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=real-hjq)
-![followers](https://img.shields.io/github/followers/real-hjq?style=social)
-
-
-
 <h1 align="center">Hi, I'm Jiaqi He 👋</h1>
 
 <p align="center">
@@ -16,10 +10,17 @@
 
 ## 👨‍💻 About Me
 
+- 🎓 PhD student at **City University of Hong Kong**, supervised by **Kede Ma**
+- 📫 How to reach me: **jiaqhe5-c@my.cityu.edu.hk**
+
+---
+
+## 🌟 Research Interests
+
+- 👁️ Image Quality Qssessment (IQA) 
+- 🔭 Video Quality Qssessment (VQA)
 
 
-- 🔭 I’m currently working on Image Quality Qssessment (IQA) and Video Quality Qssessment (VQA)
-- 📫 How to reach me: jiaqhe5-c@my.cityu.edu.hk
 
 <!--
 **real-hjq/real-hjq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
